@@ -1,4 +1,5 @@
 
+import array
 # Integers: Tuition fee payments (in dollars)
 tuition_payments = [1200, 1500, 1300, 1400, 1600]
 total_payment = sum(tuition_payments)
