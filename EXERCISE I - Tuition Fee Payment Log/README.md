@@ -1,6 +1,6 @@
 Assignment Details
-
-- **Course**: Data structures and pyhthon
+-**Exercise I**: Tuition Fee Payment Log
+- **Module**: Data structures and pyhthon
 - **Instructor**: RUKUNDO Prince
 - **Name**: Prince DUSHIME
 - **Reg No**: 224015002
